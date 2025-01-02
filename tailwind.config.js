@@ -10,6 +10,7 @@ module.exports = {
       fontFamily: {
         inter: ["var(--font-inter)", "sans-serif"],
         nacelle: ["var(--font-nacelle)", "sans-serif"],
+        press2p: ["var(--font-press2p)", "Press Start 2P"],
       },
       fontSize: {
         xs: ["0.8125rem", { lineHeight: "1.5384" }],

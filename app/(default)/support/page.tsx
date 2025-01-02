@@ -1,13 +1,13 @@
 export const metadata = {
-  title: "FirstDevs - Home",
+  title: "FirstDevs - Support",
   description: "Page description",
 };
-import Hero from "@/components/hero-home";
+import Support from "@/components/support";
 
 export default function Home() {
   return (
     <>
-      <Hero />
+      <Support />
     </>
   );
 }
