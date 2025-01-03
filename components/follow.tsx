@@ -19,7 +19,7 @@ export default function Follow() {
                     <Link title="FirstDevs on FirstLedger" href="https://firstledger.net/token/rKxsFDVBVpemrPY2ahCcTzBouLxFRX9BPb/4649525354444556530000000000000000000000">
                         <Image src={flLogo} width={24} height={24} alt="First Devs Logo" />
                     </Link>
-                    <Link title="FirstDevs on XMagnetic" href="https://firstledger.net/token/rKxsFDVBVpemrPY2ahCcTzBouLxFRX9BPb/4649525354444556530000000000000000000000">
+                    <Link title="FirstDevs on XMagnetic" href="https://xmagnetic.org/tokens/FIRSTDEVS+rKxsFDVBVpemrPY2ahCcTzBouLxFRX9BPb?network=mainnet">
                         <Image src={magLogo} width={24} height={24} alt="First Devs Logo" />
                     </Link>
                 </div>
