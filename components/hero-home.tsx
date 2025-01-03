@@ -14,6 +14,9 @@ export default function HeroHome() {
                 <p>We are just getting started.</p>
         
                 <a href="https://x.com/firstdevs"><p>Stay Tuned...</p></a>
+
+                <a href="/white-paper" rel="noopener noreferrer"><p>Read the Whitepaper</p></a>
+ 
               </article>
 
           </div>
