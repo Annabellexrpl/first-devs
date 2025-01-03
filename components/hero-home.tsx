@@ -1,3 +1,9 @@
+import Image from "next/image";
+import Link from "next/link";
+import flLogo from "@/public/images/fl-logo.svg";
+import magLogo from "@/public/images/mag1.png";
+import twitterLogo from "@/public/images/twitterlogo.svg";
+
 export default function HeroHome() {
   return (
     <section>
@@ -12,8 +18,6 @@ export default function HeroHome() {
                 <p>We will empower devs on the XRP Ledger.</p>
         
                 <p>We are just getting started.</p>
-        
-                <a href="https://x.com/firstdevs"><p>Stay Tuned...</p></a>
 
                 <a href="/white-paper" rel="noopener noreferrer"><p>Read the Whitepaper</p></a>
  
